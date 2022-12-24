@@ -27,6 +27,7 @@
 
 [![Gourinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNHD&show_icons=true&theme=github_dark)](https://github.com/GNHD/README.md)
 <br />
+[![An image of @gnhd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gnhd)](https://holopin.io/@gnhd)
 <br />
 
 
