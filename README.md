@@ -24,12 +24,12 @@
 <a href="https://code.visualstudio.com/download" target="_blank"><img align="left" alt="VSCode" width="50px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png" /></a><br><br />
 
 
-
-<!--[![Gourinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNHD&show_icons=true&theme=github_dark)](https://github.com/GNHD/README.md)--->
-<br />
-<br/>
 [![An image of @gnhd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gnhd)](https://holopin.io/@gnhd)
 <br />
+<br/>
+<!--[![Gourinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNHD&show_icons=true&theme=github_dark)](https://github.com/GNHD/README.md)--->
+
+
 
 
 <!---
