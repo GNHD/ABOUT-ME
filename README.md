@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GNHD 
+- 👋 Hi, I’m Gourinath
 - 👀 I’m interested in C,C++,JAVA,JAVASCRIPT,CSS,HTML,PHP,MYSQL,PYTHON...
 - 🌱 I’m currently learning C++,PYTHON,FLUTTER ...
 - 💞️ I’m looking to collaborate on ANDRIOD DEVELOPMENT, WEB DEVELOPMENT ...
@@ -17,11 +17,6 @@
 <br />
 
 
-
-
-### Software I Use:
-
-<a href="https://code.visualstudio.com/download" target="_blank"><img align="left" alt="VSCode" width="50px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png" /></a><br><br/>
 
 
 [![An image of @gnhd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gnhd)](https://holopin.io/@gnhd)
